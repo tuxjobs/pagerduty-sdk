@@ -39,4 +39,4 @@ require 'pagerduty/models/integration'
 # Requests
 require 'pagerduty/requests/incident'
 require 'pagerduty/requests/integration'
-#require 'pagerduty/requests/alerts'
+require 'pagerduty/requests/alerts'
